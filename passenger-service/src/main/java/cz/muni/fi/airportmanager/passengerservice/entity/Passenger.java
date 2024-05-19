@@ -15,6 +15,7 @@ import java.util.Objects;
 
 // TODO Add entity annotation
 // TODO Add id field with generated value and it is a primary key
+// TODO Add fields firstName (String), lastName (String), email (String), flightId (Long)
 // TODO Add getters and setters
 // TODO add relation to Notification entity (you will need to change the Notification entity as well)
 public class Passenger {

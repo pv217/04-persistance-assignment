@@ -309,10 +309,12 @@ Test scenario
 1. Finish the tasks
 2. Push the changes to the main branch
 3. GitHub Classroom automatically prepared a feedback pull request for you
-4. Go to the repository on GitHub and find the feedback pull request
-5. Set label to "Submitted"
-6. GitHub Actions will run basic checks for your submission
-7. Teacher will evaluate the submission as well and give you feedback
+4. GitHub Actions will run basic checks for your submission on push
+5. Teacher will evaluate the submission as well and give you feedback
+
+Resubmit the solution if the checks fail:
+1. Make changes
+2. Push again
 
 ## Hints
 
